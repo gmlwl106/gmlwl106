@@ -1,8 +1,11 @@
+<div align=center>
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Heeji's%20Github&fontSize=50)
 
 
 
-<div align=center>
+
 <h2>💬Introduction</h2>
 안녕하세요.☺ 풀스택 개발자를 목표로 공부하고 있는 신입 개발자 박희지 입니다.
 
